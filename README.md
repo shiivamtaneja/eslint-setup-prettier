@@ -8,3 +8,5 @@
 
 3. yarn add eslint-config-prettier eslint-plugin-prettier prettier --dev
 ```
+
+https://dev.to/knowankit/setup-eslint-and-prettier-in-react-app-357b
